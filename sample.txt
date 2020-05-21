@@ -9,3 +9,8 @@ hoge.
   <?php require('header.php');?>
   <title>account</title>
 </head>
+<body>
+<article>
+
+</article>
+</body>
